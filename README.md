@@ -14,5 +14,5 @@ Installation 🛠️
 Follow these steps to set up the Github User Repo Explorer on your local machine:
 <br>
 git clone https://github.com/Aasif9/GithubSearch.git
-<br
+<br>
 cd githubClone
